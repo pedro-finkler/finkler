@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>Nice to meet you. I'm Pedro Finkler.</h1>
     <p>
-      I'll keep this page update with my latest projects and experiences.
+      I'll keep this page updated with my latest projects and experiences.
     </p>
     <h3>Projects</h3>
     <ul>
@@ -12,6 +12,41 @@
           target="_blank"
           rel="noopener"
           >Easy Border Radius</a
+        >
+      </li>
+    </ul>
+    <h3>Projects I've worked on</h3>
+    <ul>
+      <li>
+        <a
+          href="https://leclerc.ca/"
+          target="_blank"
+          rel="noopener"
+          >Leclerc Biscuits</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://carnaval.qc.ca/"
+          target="_blank"
+          rel="noopener"
+          >Canaval Quebec</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://certn.co/"
+          target="_blank"
+          rel="noopener"
+          >Certn - Background Checks</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://www.kaleido.ca/en/"
+          target="_blank"
+          rel="noopener"
+          >Kaleido</a
         >
       </li>
     </ul>
